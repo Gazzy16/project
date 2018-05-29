@@ -487,7 +487,3 @@ DOMDisplay.prototype.clear = function() {
 
 
 runGame(GAME_LEVELS, DOMDisplay);
-
-
-
-

@@ -9,17 +9,6 @@ v = Dripping water
 | = Horizontal moving water
 
 */
-var simpleLevelPlan = [
-  "                      ",
-  "                      ",
-  "  x              = x  ",
-  "  x         o o    x  ",
-  "  x @      xxxxx   x  ",
-  "  xxxxx            x  ",
-  "      x!!!!!!!!!!!!x  ",
-  "      xxxxxxxxxxxxxx  ",
-  "                      "
-];
 
 var GAME_LEVELS = [
   ["                                                                              	                                  ",
